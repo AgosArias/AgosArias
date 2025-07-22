@@ -9,7 +9,7 @@ Hi there! I'm Agostina — a developer with a background in **RPA**, **C**, **C#
 ## 🚀 Tech Stack
 
 - 🧠 **Languages**: C, C#, Python, Java, JavaScript, SQL  
-- ⚙️ **Automation**: UiPath, Power Automate, Appian, Selenium  
+- ⚙️ **Automation**: UiPath, Power Automate
 - 🗃️ **Databases**: Oracle SQL, SQL Server, MySQL  
 - ☁️ **Cloud & DevOps**: Azure, Git, GitHub  
 - 🌐 **Web Development**: HTML, CSS, React, Spring Boot  
@@ -18,9 +18,8 @@ Hi there! I'm Agostina — a developer with a background in **RPA**, **C**, **C#
 
 ## 🎓 Education
 
-- 🏫 Software Engineering Student at [42 Málaga](https://42malaga.com/)  
+- 🏫 Student at [42 Málaga](https://42malaga.com/)  
 - 📊 Certified in Data Analysis and Full Stack Java Development  
-- 🧬 Pediatric Nephrologist with expertise in Clinical Management and AI in Medicine  
 
 ---
 
