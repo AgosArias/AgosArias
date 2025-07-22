@@ -34,7 +34,7 @@ Hi there! I'm Agostina — a developer with a background in **RPA**, **C**, **C#
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/agosarias/)  
 - 🧠 [GitHub](https://github.com/AgosArias)  
-- 📧 agosarias.dev@gmail.com  
+- 📧 agosarias99@gmail.com  
 
 ---
 
